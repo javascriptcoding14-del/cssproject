@@ -1,0 +1,25 @@
+body{
+    background-color: #e4980a;
+}
+
+.head{
+    color:darkblue
+}
+
+#bglime{
+    background-color: lime;
+    color:red
+}
+
+p{
+    color:white;
+}
+
+#para{
+    color:green;
+}
+
+a{
+    background-color:blue;
+    color:green;
+}
